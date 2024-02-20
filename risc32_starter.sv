@@ -232,4 +232,3 @@ typedef enum logic [2:0] {
     ,bltu = 6
     ,bgeu = 7
 }   branch_ops;
-
